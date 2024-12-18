@@ -1,0 +1,243 @@
+Country;Population
+China;1347350000
+India;1210193422
+United States of America;314462000
+Indonesia;237641326
+Brazil;193946886
+Pakistan;180782000
+Nigeria;166629000
+Bangladesh;152518015
+Russian Federation;143200000
+Japan;127520000
+Mexico;112336538
+Philippines;92337852
+Vietnam;87840000
+Ethiopia;84320987
+Egypt;82611000
+Germany;81844000
+Iran;75149669
+Turkey;74724269
+Democratic Republic of the Congo;69575000
+Thailand;65479453
+France;65350000
+United Kingdom;62262000
+Italy;59464644
+South Africa;50586757
+South Korea;50004441
+Myanmar;48724000
+Colombia;46715000
+Spain;46163116
+Ukraine;45560272
+Tanzania;43188000
+Argentina;40117096
+Kenya;38610097
+Poland;38538447
+Algeria;37100000
+Canada;34930500
+Iraq;33330000
+Uganda;32939800
+Morocco;32682100
+Sudan;30894000
+Peru;30135875
+Malaysia;29484000
+Uzbekistan;29123400
+Venezuela;28946101
+Saudi Arabia;28376355
+Nepal;26620809
+Afghanistan;25500100
+Ghana;24658823
+North Korea;24554000
+Yemen;24527000
+Mozambique;23700715
+Taiwan;23268372
+Australia;22740427
+Syria;21765000
+Côte d'Ivoire;21395000
+Madagascar;20696070
+Angola;20609294
+Sri Lanka;20277597
+Cameroon;19406100
+Romania;19042936
+Kazakhstan;16815000
+Netherlands;16741683
+Chile;16572475
+Niger;16274738
+Malawi;15883000
+Burkina Faso;15730977
+Guatemala;14713763
+Mali;14528662
+Ecuador;14483499
+Cambodia;14478000
+Zambia;13092666
+Zimbabwe;13014000
+Senegal;12855153
+Chad;11274106
+Cuba;11247925
+Belgium;10839905
+Guinea;10824200
+Greece;10787690
+Rwanda;10718379
+Tunisia;10673800
+Portugal;10561614
+Czech Republic;10507566
+Bolivia;10426155
+Haiti;10085214
+Hungary;9957731
+Somalia;9797000
+Sweden;9522998
+Belarus;9457100
+Dominican Republic;9445281
+Benin;9352000
+Azerbaijan;9235100
+Burundi;8749000
+Austria;8452835
+Honduras;8385072
+United Arab Emirates;8264070
+South Sudan;8260490
+Switzerland;8000001
+Israel;7913900
+Tajikistan;7800000
+Bulgaria;7364570
+Papua New Guinea;7170000
+Serbia;7120666
+Hong Kong (China);7103700
+Libya;6469000
+Laos;6465800
+Paraguay;6337127
+Jordan;6351400
+Togo;6191155
+El Salvador;6183000
+Sierra Leone;6126000
+Nicaragua;6071045
+Denmark;5587085
+Eritrea;5581000
+Kyrgyzstan;5477600
+Slovakia;5445324
+Finland;5421110
+Singapore;5183700
+Turkmenistan;5170000
+Norway;5037000
+Ireland;4588252
+Central African Republic;4576000
+Georgia;4497600
+New Zealand;4441290
+Costa Rica;4301712
+Palestinian territories;4293313
+Lebanon;4292000
+Croatia;4290612
+Liberia;4245000
+Republic of the Congo;4233000
+Bosnia and Herzegovina;3868621
+Puerto Rico;3706690
+Kuwait;3582054
+Moldova;3559500
+Panama;3405813
+Mauritania;3378254
+Uruguay;3286314
+Armenia;3275700
+Lithuania;3180394
+Albania;2831741
+Oman;2773479
+Mongolia;2736800
+Jamaica;2709300
+Lesotho;2217000
+Namibia;2104900
+Latvia;2070371
+Macedonia;2059794
+Slovenia;2060180
+Botswana;2024904
+Gambia;1825000
+Qatar;1699435
+Gabon;1564000
+Guinea-Bissau;1520830
+Trinidad and Tobago;1317714
+Estonia;1294236
+Mauritius;1286051
+Bahrain;1234571
+Swaziland;1220000
+Timor-Leste;1066409
+Fiji;876000
+Cyprus;838897
+Djibouti;818159
+Réunion (France);816364
+Guyana;784894
+Equatorial Guinea;740000
+Bhutan;720679
+Comoros;669300
+Montenegro;620029
+Macau (China);568700
+Western Sahara;567000
+Solomon Islands;553935
+Suriname;534000
+Luxembourg;511800
+Cape Verde;491875
+Malta;417617
+Guadeloupe (France);401554
+Martinique (France);396404
+Brunei;393162
+Bahamas;353658
+Iceland;320060
+Maldives;317280
+Belize;312971
+French Polynesia (France);277000
+Barbados;274200
+New Caledonia (France);245580
+Vanuatu;234023
+French Guiana (France);224469
+Mayotte (France);217000
+Samoa;186340
+São Tomé and Príncipe;172000
+Saint Lucia;166526
+Guam (USA);159358
+Curaçao (Netherlands);149679
+Grenada;110821
+United States Virgin Islands;106405
+Tonga;103036
+Kiribati;103000
+Federated States of Micronesia;102843
+Aruba (Netherlands);101484
+Saint Vincent and the Grenadines;100892
+Jersey (UK);97857
+Seychelles;90945
+Antigua and Barbuda;86295
+Isle of Man (UK);84497
+Andorra;78115
+Dominica;71293
+Bermuda (UK);64237
+Guernsey (UK);62431
+Greenland (Denmark);56749
+American Samoa (USA);55519
+Cayman Islands (UK);55456
+Marshall Islands;54305
+Northern Mariana Islands (USA);53883
+Saint Kitts and Nevis;51970
+Faroe Islands (Denmark);48459
+Sint Maarten (Netherlands);37429
+Saint Martin (France);36824
+Liechtenstein;36476
+Monaco;35000
+San Marino;32404
+Turks and Caicos Islands (UK);31458
+Gibraltar (UK);29752
+British Virgin Islands (UK);29537
+Åland Islands (Finland);28355
+Caribbean Netherlands (Netherlands);21133
+Palau;21000
+Cook Islands (NZ);17791
+Anguilla (UK);13452
+Wallis and Futuna (France);13000
+Nauru;10000
+Tuvalu;10000
+Saint Barthélemy (France);8902
+Saint Pierre and Miquelon (France);6082
+Montserrat (UK);4922
+Saint Helena, Ascension and Tristan da Cunha (UK);4000
+Falkland Islands (UK);2563
+Svalbard and Jan Mayen (Norway);2495
+Norfolk Island (Australia);2302
+Christmas Island (Australia);2072
+Tokelau (NZ);1411
+Niue (NZ);1000
+Vatican City;800
+Cocos (Keeling) Islands (Australia);550
+Pitcairn Islands (UK);66
